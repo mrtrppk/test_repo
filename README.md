@@ -4,4 +4,5 @@ This repository will be used for testing and demonstrating the use of git and Gi
 
 Contributors are:
 
+Tiagocdt
 Souti
